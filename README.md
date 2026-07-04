@@ -6,5 +6,5 @@ Einige der Features enthalten sind:
 -Läuft auf jedem computer offline im Browser  
 -Autosave Feature falls der Browser crasht   
 
-Ansonsten bitte gerne Verbesserungsvorschläge senden würde mich freuen das ist ein projekt was für alle da sein soll die Spaß am Tischtennis haben.
+Ansonsten bitte gerne Verbesserungsvorschläge senden würde mich freuen das ist ein projekt welches für alle da sein soll,die Spaß am Tischtennis haben.
 Disclaimer: Es wurde auch mit KI gearbeitet.
