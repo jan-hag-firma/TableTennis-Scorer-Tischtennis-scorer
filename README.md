@@ -1,5 +1,5 @@
 # TableTennis-Scorer-Tischtennis-scorer
-Hey, bei uns im Verein hatten wir zuletzt die Idee ein Testspiel zu veranstalten gegen eine andere Mannschaft. Allerdings wollten wir uns den aufwand nicht machen auf papier  zu schreiben, da es erstens veraltet,und zweitens zu aufwendig für ein simples Testspiel ist. Nuscore lässt aber nicht zu dass man ein Testspiel eingibt, dafür ist diese software da.
+Hey, bei uns im Verein hatten wir zuletzt die Idee ein Testspiel zu veranstalten gegen eine andere Mannschaft. Allerdings wollten wir uns den aufwand nicht machen auf papier  zu schreiben, da es erstens veraltet,und zweitens zu aufwendig für ein simples Testspiel ist. Nuscore lässt aber nicht zu dass man ein Testspiel eingibt, dafür ist diese software da.  
 Einige der Features enthalten sind:  
 -Umschalten von 4/6er Mannschaften  
 -Speicherung der Ergebnisse in einer TXT Datei  
