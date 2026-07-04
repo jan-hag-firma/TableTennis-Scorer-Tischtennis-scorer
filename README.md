@@ -8,4 +8,5 @@ Einige der Features enthalten sind:
 
 Ansonsten bitte gerne Verbesserungsvorschläge senden würde mich freuen das ist ein projekt welches für alle da sein soll,die Spaß am Tischtennis haben.
 Disclaimer: Es wurde auch mit KI gearbeitet.
-Für die volle autosvae Funktion sollte man Google Chrome verwenden.
+Für die volle autosvae Funktion sollte man Google Chrome verwenden.  
+Um es zu verwenden einfach auf die HTML Datei drücken, dann oben rechts auf die drei punkte herunterladen und dann einfach öffnen.
